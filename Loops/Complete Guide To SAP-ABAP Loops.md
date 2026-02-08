@@ -175,9 +175,9 @@
 
 ## Appendices
 
-### [Appendix A: Quick Troubleshooting Guide](#appendix-a:-quick-troubleshooting-guide)
+### [Appendix A: Quick Troubleshooting Guide](#appendix-a-quick-troubleshooting-guide)
 
-### [Appendix B: Performance Benchmarks](#appendix-b:--performance-benchmarks)
+### [Appendix B: Performance Benchmarks](#appendix-b-performance-benchmarks)
 
 ---
 
